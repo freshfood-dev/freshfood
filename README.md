@@ -1,2 +1,2 @@
-# freshfood
-Freshffod grocery theme
+# quality-grocery
+quality-grocery
